@@ -5,9 +5,8 @@ Problem:
 
 Building a recommender system for books 
 
-Dataset:
+Dataset: Goodreads API: https://www.goodreads.com/api
 
-Goodreads API: https://www.goodreads.com/api
 The entire dataset contains information on the books, such as title, author, average rating, etc. 
 
 Proposed Solution and Real-World Application:
