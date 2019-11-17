@@ -1,0 +1,15 @@
+import csv
+from goodreads import client
+gc = client.GoodreadsClient('pvr3ns4Le0DCqEpAG2jlQ', '4BM2D4d8ZvFcJNqRQ3OjQq1Qh3OrvMAvHiI0lTOUFE')
+with open('datav3.csv','r',encoding="utf-8") as f:
+    reader = csv.reader(f)
+    fieldnames = next(reader)
+    # print(fieldnames)
+    csv_reader = csv.DictReader(f,fieldnames=fieldnames)
+    cntAuthor={}
+    
+    for row in csv_reader:
+        d={}
+        for k,v in row.items():
+            d[k]=v
+        print(d)
