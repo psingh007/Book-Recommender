@@ -1,0 +1,588 @@
+Sydelle Kramer   2.0   50
+Living Language   2.1   536
+Karl Marx   2.275   951
+Alan S. Tussy   2.3   96
+John Gray   2.375   321
+Hila Colman   2.5   50
+National Research Council   2.5   6295
+Robert Kraus   2.615   142
+Henry MacKenzie   2.875   80
+Liz Palika   2.9   83
+Paul Kropp   2.915   85
+Berlie Doherty   2.985   100
+Sarah Glendon Lyons   3.08   1
+Katie Marsico   3.085   339
+يوسف القعيد   3.135   38
+Phillip Mann   3.14   24
+Kim Lawrence   3.145   516
+Elsa Z. Posell   3.165   11
+Barbara A. Somervill   3.165   199
+Wolfgang Hohlbein   3.175   615
+Maggie Black   3.205   57
+Margaret Hillert   3.207   186
+Jerrold Morgulas   3.21   4
+Stephen Crane   3.23   479
+William H. Davidow   3.24   4
+Gavin Booth   3.25   57
+Miranda Jarrett   3.265   78
+Gerhart Hauptmann   3.273   210
+Margaret Way   3.275   342
+Luis Mateo Díez   3.29   86
+Robert Holdstock   3.29   86
+Charles L. Grant   3.32   276
+Susan Dunlap   3.32   62
+Daniel Easterman   3.32   19
+Phillip C. McGraw   3.325   51
+Anton Chekhov   3.335   3150
+Barbara Weltman   3.335   82
+Max Gallo   3.335   140
+Jonathan Lethem   3.345   188
+Teresa Southwick   3.36   280
+Jennifer Greene   3.365   185
+John Creasey   3.37   385
+Pierre Pratt   3.375   80
+Nina Berberova   3.38   72
+Lisa Jackson   3.385   205
+Various   3.393   69943
+Debbie Dadey   3.4   195
+Fay Weldon   3.4   153
+Sandra Chastain   3.405   64
+Johann Wolfgang von Goethe   3.407   3806
+Peter Haining   3.407   286
+Alberto Vázquez-Figueroa   3.41   117
+Penny Jordan   3.42   730
+Robert Moss   3.425   56
+Doris Dörrie   3.43   48
+Harold Pinter   3.44   207
+Gish Jen   3.445   34
+Carl Bridenbaugh   3.45   18
+Stefan Wolf   3.457   240
+Pierre de Marivaux   3.46   244
+Augusto Roa Bastos   3.465   52
+Amélie Nothomb   3.465   58
+Boris Vian   3.467   194
+Tom Wolfe   3.47   114
+Jack Williamson   3.475   341
+Terry Sanchez-Clark   3.5   58
+Robert Wechsler   3.5   9
+Cynthia Amoroso   3.5   280
+Roger  Williams   3.505   54
+Hugo Claus   3.505   139
+J.R. Roberts   3.51   483
+Clint Willis   3.51   57
+Geoffrey Chaucer   3.515   485
+Susan Helen Wallace   3.52   27
+Michael Foreman   3.523   273
+Tony Hillerman   3.53   96
+Geoffrey Wolff   3.53   22
+Scott Spencer   3.54   49
+Tom Piccirilli   3.54   175
+Joy Cowley   3.543   908
+Oscar Wilde   3.547   1977
+Graham Greene   3.55   331
+Russell Freedman   3.55   67
+Douglas Coupland   3.553   71
+John E. Stith   3.555   18
+John Steinbeck   3.555   341
+Henry James   3.556   1834
+Patricia Highsmith   3.56   255
+Jonathan Swift   3.56   815
+Mark Frauenfelder   3.56   68
+Jean-Christophe Grangé   3.56   45
+Andrew Burstein   3.57   14
+Ian McEwan   3.573   95
+Andreas Eschbach   3.575   138
+NOT A BOOK   3.578   694356
+G.A. Henty   3.58   370
+Val McDermid   3.58   193
+Nathaniel Hawthorne   3.58   1558
+Paulo Coelho   3.59   203
+Lauren Henderson   3.59   34
+Paul Theroux   3.59   171
+Francine Pascal   3.59   796
+Tara Taylor Quinn   3.59   173
+Joyce Carol Oates   3.595   624
+Harrison E. Salisbury   3.6   54
+W.E. Johns   3.6   185
+Garon Tsuchiya   3.605   19
+Paul Auster   3.61   173
+Duane Elgin   3.61   12
+David Feldman   3.615   59
+Hergé   3.617   337
+Dashiell Hammett   3.62   280
+Kahlil Gibran   3.62   763
+Jerzy Kosiński   3.623   28
+Terry Eagleton   3.63   102
+Wendy Markham   3.63   24
+Julia Justiss   3.63   99
+Philip K. Dick   3.635   1086
+Elizabeth Payson Prentiss   3.64   45
+J.T. Edson   3.64   210
+Victor Pelevin   3.64   151
+Michelle Lovric   3.64   81
+Graham Masterton   3.643   316
+Daniel C. Dennett   3.645   50
+Martha Grimes   3.645   68
+Barbara Delinsky   3.645   177
+Mary Higgins Clark   3.65   313
+Sheila Solomon Klass   3.65   16
+Larry McMurtry   3.65   87
+Daphne du Maurier   3.653   249
+Charles R. Swindoll   3.655   472
+Alan Dean Foster   3.655   323
+George Mackay Brown   3.655   82
+A.M. Homes   3.66   54
+Jane Green   3.66   40
+Gordon R. Dickson   3.663   392
+Ann M. Martin   3.663   640
+Ruben Eliassen   3.665   28
+Cathy Hopkins   3.665   83
+R.L. Stine   3.666   1072
+Bruce Coville   3.67   236
+Frank Miller   3.67   669
+James Hadley Chase   3.67   237
+Piers Anthony   3.672   350
+Jan Guillou   3.673   75
+Margaret Atwood   3.68   357
+Janice Kay Johnson   3.68   165
+Molière   3.685   647
+Shaun Hutson   3.685   96
+Walt Disney Company   3.69   16766
+Daniel Defoe   3.69   1007
+Eric Van Lustbader   3.69   125
+Theodore Roosevelt   3.69   706
+Philippa Pearce   3.705   68
+Donald Spoto   3.705   37
+Irwin Shaw   3.71   96
+L. Sprague de Camp   3.71   472
+F. Scott Fitzgerald   3.71   809
+Jerry Siegel   3.71   337
+Gary Paulsen   3.71   222
+Joseph Conrad   3.714   961
+Martha Stewart   3.715   187
+Andrew Woods   3.715   58
+Garrison Keillor   3.715   211
+Elizabeth Gaskell   3.72   478
+Gaius Julius Caesar   3.72   632
+Michael   Freeman   3.72   240
+Cristina Peri Rossi   3.72   75
+Elizabeth Thornton   3.72   37
+Time-Life Books   3.722   1702
+Robert E. Weinberg   3.725   135
+Marilyn Lee   3.725   148
+Miranda Lee   3.727   504
+Elias Canetti   3.73   78
+Rebecca Winters   3.73   666
+Michael Moorcock   3.73   641
+Arthur Schopenhauer   3.735   445
+Henrik Ibsen   3.735   485
+Edward de Bono   3.74   164
+Janet Frame   3.74   51
+Marion Gräfin Dönhoff   3.74   30
+Karen McCombie   3.74   89
+David Almond   3.745   60
+Meg Cabot   3.745   170
+John le Carré   3.745   120
+David Mack   3.75   89
+Virginia Woolf   3.75   897
+Thomas Brezina   3.75   605
+John M. Rickard   3.75   15
+H. Rider Haggard   3.753   745
+Jacob Grimm   3.755   2217
+Ernest Hemingway   3.757   865
+Voltaire   3.76   1613
+Penelope Lively   3.76   104
+John Wyndham   3.77   197
+Paola Antonelli   3.775   47
+Jodi Picoult   3.775   70
+David Eddings   3.78   128
+Fiona Watt   3.78   756
+Philip José Farmer   3.78   385
+Leigh Nichols   3.78   6
+Karl May   3.785   845
+Zane Grey   3.785   738
+Georges Simenon   3.785   1013
+Orson Scott Card   3.79   589
+Catherine Cookson   3.79   199
+Donna Ball   3.79   52
+Sandra Brown   3.793   160
+Gore Vidal   3.793   156
+Lee A. Jacobus   3.795   50
+George Eliot   3.795   770
+Henry Rollins   3.795   81
+Fred Chappell   3.795   86
+Diane Paterson   3.795   164
+Philippa Gregory   3.797   78
+Maryanne Blacker   3.8   70
+Charles Dickens   3.801   4479
+Frank Herbert   3.805   298
+Annie Proulx   3.805   73
+Victoria Holt   3.805   89
+Jeffery Deaver   3.81   243
+Anant Pai   3.81   732
+Sergio Pitol   3.81   103
+Howard Blum   3.81   21
+Patricia H. Rushford   3.81   59
+Thomas Hardy   3.812   1049
+Louis L'Amour   3.815   525
+Cornelia Otis Skinner   3.815   21
+Martha N. Beck   3.82   20
+Sigmund Brouwer   3.82   174
+Wilkie Collins   3.82   988
+Jack Kerouac   3.823   210
+Andrée Chedid   3.825   62
+Rudyard Kipling   3.825   2112
+Katherine Paterson   3.825   124
+Washington Irving   3.825   1944
+Mark Twain   3.827   3132
+Ivan Turgenev   3.83   861
+Virginia H. Ellison   3.83   4
+Cynthia Ozick   3.835   73
+Diana Palmer   3.835   662
+Ann Rinaldi   3.835   50
+Claude Lévi-Strauss   3.84   117
+James Patterson   3.844   647
+Unknown   3.845   143621
+Ed McBain   3.845   330
+Peter David   3.845   1991
+Marthe Le Van   3.85   45
+Megan McDonald   3.85   224
+Edgar Rice Burroughs   3.85   702
+Laura Childs   3.85   52
+Carolyn Keene   3.85   902
+Marcia Muller   3.85   172
+Robert Ludlum   3.855   195
+Elmore Leonard   3.86   144
+Marguerite Duras   3.86   178
+Louisa May Alcott   3.86   1069
+Harry Harrison   3.86   651
+R.C. Sproul   3.865   292
+Selma Lagerlöf   3.865   419
+Ngaio Marsh   3.865   105
+Gertrude Chandler Warner   3.865   348
+James Herbert   3.87   53
+Danielle Steel   3.87   230
+Dean Koontz   3.872   464
+Jude Deveraux   3.875   90
+Jonathan Kellerman   3.875   122
+Max Allan Collins   3.877   507
+Camilo José Cela   3.885   146
+Joe R. Lansdale   3.887   601
+David A. Adler   3.89   319
+Franklin W. Dixon   3.89   706
+John Piper   3.89   321
+Fatema Mernissi   3.89   34
+Ripley Entertainment Inc.   3.89   531
+John Keay   3.89   45
+José Saramago   3.893   182
+William Shakespeare   3.894   4918
+Carson McCullers   3.895   88
+Joanne Harris   3.895   70
+Robert Munsch   3.895   168
+Sophocles   3.895   481
+Amanda Quick   3.897   94
+Sue Henry   3.897   23
+Alice Munro   3.9   168
+Elizabeth Koda-Callan   3.9   15
+Astrid Lindgren   3.9   495
+Shiloh Walker   3.9   193
+Jessica Fletcher   3.9   60
+Andrew M. Greeley   3.9   217
+Insight Guides   3.9   1888
+Susanna Davidson   3.903   123
+Terry Brooks   3.905   172
+Dick Francis   3.907   264
+Noam Chomsky   3.91   597
+Theodore Sturgeon   3.91   531
+Ian Irvine   3.91   78
+Nicholas Sparks   3.91   107
+E.E. "Doc" Smith   3.91   148
+Lori Handeland   3.91   87
+Lloyd Alexander   3.913   71
+Kosuke Fujishima   3.915   329
+Howard Pyle   3.915   357
+Emily Rodda   3.915   159
+Rebecca West   3.915   81
+Clive Cussler   3.917   150
+Robert B. Parker   3.917   167
+Agatha Christie   3.918   2382
+David    Allen   3.92   44
+Andrew Harvey   3.92   124
+Honoré de Balzac   3.925   2286
+Stephen King   3.926   1556
+Roger Zelazny   3.93   520
+Robert A. Heinlein   3.93   528
+Jean Craighead George   3.93   137
+Robert D. San Souci   3.93   84
+Mack Reynolds   3.93   344
+René Goscinny   3.933   677
+Terry Pratchett   3.935   450
+Irvine Welsh   3.937   84
+Jackie Collins   3.94   111
+John Wesley   3.94   1079
+Jayne Ann Krentz   3.94   268
+Franz Kafka   3.941   1492
+Elizabeth Peters   3.942   78
+Tad Williams   3.942   198
+Max Brand   3.945   732
+Anthony Read   3.945   25
+Sherman Alexie   3.945   102
+V.C. Andrews   3.946   151
+George Bernard Shaw   3.95   558
+Jules Verne   3.95   1783
+Amy Tan   3.955   80
+The Diagram Group   3.955   265
+Adam Ward   3.955   43
+Peter Gay   3.955   65
+Aristotle   3.955   1322
+Mark Billingham   3.96   63
+Thomas Mann   3.96   640
+Grace Livingston Hill   3.96   222
+Masami Kurumada   3.96   506
+Michel Foucault   3.963   353
+Linda Lael Miller   3.965   266
+Roger Hargreaves   3.965   892
+Georgette Heyer   3.965   113
+Debra Webb   3.97   351
+Jorge Luis Borges   3.97   880
+Jack C. Richards   3.97   604
+Kathleen Duey   3.97   109
+Tom Clancy   3.975   273
+Walter Dean Myers   3.975   180
+John Buchan   3.975   817
+John Jakes   3.975   206
+Irene Hannon   3.975   79
+Enid Blyton   3.976   3005
+Ovid   3.977   685
+Vladimir Nabokov   3.98   388
+Marcel Reich-Ranicki   3.98   118
+L. Frank Baum   3.98   800
+C.G. Jung   3.982   608
+Ludwig Bemelmans   3.983   86
+Raymond Chandler   3.985   268
+Pablo Neruda   3.99   442
+Diana Butler Bass   3.99   19
+Mary Pope Osborne   3.99   404
+Debbie Macomber   3.99   552
+Jim Davis   3.99   1582
+Len Deighton   3.99   85
+Parke Godwin   3.99   274
+John Haywood   3.993   116
+Michael Morpurgo   3.995   339
+Luther Blissett   3.995   39
+Al Lacy   3.995   81
+Frederick Forsyth   3.995   174
+Friedrich Nietzsche   3.995   1180
+Edgar Allan Poe   4.0   3417
+Harold R. Isaacs   4.0   22
+Sahara Kelly   4.0   175
+Charles L. Allen   4.0   50
+Matteo Mancini   4.0   9
+Hal Leonard Publishing Company   4.0   4968
+Reader's Digest Association   4.004   2654
+Penny Vincenzi   4.005   46
+Barbara Cartland   4.005   782
+Rumi   4.01   634
+Julie Garwood   4.01   68
+Yayoi Ogawa   4.01   51
+Marion Zimmer Bradley   4.01   416
+Mircea Eliade   4.01   316
+Harlan Coben   4.013   116
+Erwin Raphael McManus   4.015   35
+Ray Bradbury   4.015   570
+Ellen Levine   4.015   55
+Miguel de Cervantes Saavedra   4.015   818
+Jane Yolen   4.017   793
+Hitoshi Okuda   4.02   31
+Gabriel García Márquez   4.02   462
+Arthur C. Clarke   4.022   924
+Roald Dahl   4.024   799
+Robert B. Cialdini   4.025   33
+Michel Butor   4.025   137
+Jane Austen   4.025   1766
+Cate Tiernan   4.025   41
+Margaret Peterson Haddix   4.025   80
+Italo Calvino   4.03   325
+Peter Gabriel   4.03   20
+Plato   4.033   1342
+George A. Kennedy   4.035   21
+Bob Sehlinger   4.04   144
+James C. Dobson   4.04   217
+Gabrielle Charbonnet   4.04   40
+Lori Copeland   4.04   144
+Joanne Mattern   4.045   730
+Ian Gibson   4.045   64
+Anne McCaffrey   4.047   353
+Hermann Hesse   4.048   752
+Lewis Carroll   4.05   1070
+Margaret Frazer   4.05   50
+Nizami Ganjavi   4.05   75
+Bill Bryson   4.05   60
+Boris Akunin   4.05   147
+Tom Tierney   4.05   281
+Aaron Posner   4.05   7
+Robert Graves   4.055   287
+Neil Gaiman   4.055   1308
+Chris d'Lacey   4.055   52
+Niccolò Machiavelli   4.055   362
+Joan Aiken   4.055   261
+Margaret Coel   4.055   51
+Alan Moore   4.058   876
+Steven Pinker   4.06   43
+Robert Louis Stevenson   4.06   2733
+Albert Brian Bosworth   4.06   9
+C.S. Lewis   4.063   611
+Alexandre Dumas   4.067   2572
+Stephen R. Lawhead   4.067   87
+Bertrice Small   4.07   85
+MaryJanice Davidson   4.07   129
+Adam Blade   4.07   437
+Temple Grandin   4.07   89
+Rumiko Takahashi   4.07   1030
+Harlan Ellison   4.073   707
+Langston Hughes   4.075   253
+J. Patrick Lewis   4.075   117
+Heather Amery   4.075   352
+Harold Bloom   4.077   1238
+Julio Cortázar   4.08   451
+Betty Neels   4.08   370
+Eknath Easwaran   4.08   92
+J.M. Barrie   4.08   587
+Isaac Asimov   4.082   2742
+Dan Simmons   4.085   202
+Trace Moroney   4.09   127
+Brenda Jackson   4.09   507
+Adam McLeod   4.09   20
+George C. Chesbro   4.09   41
+Melba Pattillo Beals   4.09   5
+Carlos Castaneda   4.1   79
+Keiichi Sigsawa   4.105   80
+Brian Wildsmith   4.105   124
+Ruth Ryan Langan   4.11   138
+Madeleine L'Engle   4.11   134
+Norman Cousins   4.11   53
+Peter Robinson   4.11   149
+Matt Christopher   4.115   285
+P.C. Cast   4.115   103
+Bertolt Brecht   4.115   718
+Bathroom Readers' Institute   4.115   217
+Eric Kraft   4.12   33
+E.F. Benson   4.12   512
+Dorothy L. Sayers   4.12   334
+L.M. Montgomery   4.125   728
+Martin Heidegger   4.13   333
+John Sandford   4.133   85
+Hans Christian Andersen   4.133   2203
+Jack Canfield   4.135   1008
+Simone de Beauvoir   4.135   176
+Billy Graham   4.14   272
+P.G. Wodehouse   4.143   835
+Christine Feehan   4.145   140
+Anne Golon   4.145   148
+Jack Du Brul   4.145   25
+Janette Oke   4.155   152
+Nora Roberts   4.159   809
+Arthur Conan Doyle   4.16   4889
+Martin Esslin   4.16   33
+Stan Lee   4.16   2853
+Napoleon Hill   4.16   534
+Richard Henderson   4.165   31
+Edwin P. Hoyt   4.165   145
+Jim Butcher   4.165   165
+James Boyd White   4.165   20
+Yōko Kamio   4.167   214
+Charles Darwin   4.17   521
+Stefan Zweig   4.173   736
+James Joyce   4.173   791
+Margaret Wise Brown   4.175   257
+Frederick Douglass   4.175   344
+Mahmoud Darwish   4.18   152
+Jack Schaefer   4.18   34
+Jorge Ibargüengoitia   4.18   49
+Doreen Virtue   4.19   319
+Charlotte Brontë   4.193   974
+T.S. Eliot   4.195   374
+Charles Bukowski   4.195   404
+Dalai Lama XIV   4.197   734
+Mikhail Lermontov   4.197   214
+Geza Szurovy   4.2   18
+Albert Einstein   4.2   373
+R.A. Torrey   4.2   177
+Diana Wynne Jones   4.2   117
+Carl Sagan   4.205   81
+Christina Skye   4.21   56
+Charles M. Schulz   4.212   1790
+Eric Carle   4.212   426
+Laura Ingalls Wilder   4.213   178
+William R. Newman   4.215   12
+Maia Wojciechowska   4.22   16
+David Gemmell   4.225   98
+Not For Tourists   4.225   118
+John Fante   4.225   41
+Spencer Johnson   4.23   87
+Alexander Afanasyev   4.23   79
+Mario Vargas Llosa   4.23   254
+Lois McMaster Bujold   4.24   122
+Rex Stout   4.24   290
+Richmal Crompton   4.245   181
+Arnold Lobel   4.245   183
+Richard Scarry   4.245   686
+Roger Priddy   4.25   1838
+João Cabral de Melo Neto   4.25   42
+William W. Johnstone   4.25   443
+Paulo Freire   4.26   80
+Victor Hugo   4.265   1951
+Fyodor Dostoyevsky   4.268   1445
+Joseph Murphy   4.27   310
+Mark Davies   4.275   77
+CLAMP   4.275   682
+Stan Berenstain   4.277   529
+Margaret Mitchell   4.29   94
+Michael Connelly   4.29   260
+Angela Elwell Hunt   4.295   198
+Ann Charters   4.305   26
+Stanisław Lem   4.305   336
+Henri J.M. Nouwen   4.31   190
+Cassie Edwards   4.315   121
+Alan W. Watts   4.32   198
+Kimberla Lawson Roby   4.32   29
+John Ettling   4.33   1
+Ahmad H. Sakr   4.335   35
+Jim Razzi   4.335   100
+Charles Baudelaire   4.338   839
+Max Lucado   4.34   990
+Stephen Bly   4.343   118
+Tite Kubo   4.345   286
+Kevin J. Vanhoozer   4.365   42
+Patrick O'Brian   4.375   114
+Jeannie St. John Taylor   4.375   23
+Anne E. Neuberger   4.385   23
+Eugene H. Peterson   4.39   325
+Beatrix Potter   4.397   1646
+Yoshihiro Togashi   4.4   206
+Richard P. Feynman   4.405   129
+Robert McAfee Brown   4.415   37
+Oxford University Press   4.417   1477
+Michel Serres   4.42   91
+Rainer Maria Rilke   4.425   761
+John Stuart Mill   4.425   383
+Anonymous   4.429   172449
+Betty Crocker   4.43   432
+Philip Schaff   4.435   672
+Arina Tanemura   4.435   189
+Rabindranath Tagore   4.437   1088
+J.R.R. Tolkien   4.438   486
+Rosanne Bittner   4.445   76
+Eiichiro Oda   4.45   543
+Murray Ball   4.48   87
+Edgar Cayce   4.485   136
+William Blake   4.495   481
+Margaret Storey   4.5   28
+Plutarch   4.5   1419
+Vicki Lansky   4.52   62
+Ivo Andrić   4.523   181
+William Wordsworth   4.545   503
+Dorothy Dunnett   4.545   32
+Hafez   4.63   151
+Charles Haddon Spurgeon   4.76   2453
+Richard K. Nongard   5.0   19
