@@ -1,4 +1,4 @@
-# Book-Recommender
+# Goodreads-Data-Analysis
 ECE 143 Group Project
 
 Problem:
